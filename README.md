@@ -1,4 +1,4 @@
-# Sistema de Distribuição de Cargas em Transportadora
+# Sistema de Distribuição de Cargas em uma Transportadora
 
 ## Descrição do Projeto
 
